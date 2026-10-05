@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Generated local SQLite database
+data/officehours.db
+*.sqlite
+*.sqlite3
+
+# Editor/OS files
+.DS_Store
+.vscode/
+.idea/
